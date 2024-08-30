@@ -1,0 +1,1 @@
+A quick and dirty persistence method to disable the Windows Firewall when a user uses the `netsh` command. A more detailed explanation can be found [here](https://attack.mitre.org/techniques/T1546/007/).
